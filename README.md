@@ -1,2 +1,7 @@
-# Python
-# Репозиторий группы: https://github.com/rootpolzovatel/iservCiv
+# IservCiv
+Данный репозиторий предназначен для хранения истории создания проектов группы Pro Цивильск
+
+## Это основной репозиторий группы: https://github.com/rootpolzovatel/IservCiv
+### Это репозитории учеников:
+
+#### Коля: 
