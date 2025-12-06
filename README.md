@@ -1,3 +1,2 @@
 # Python
-# Репозиторий группы:
-## https://github.com/rootpolzovatel/iservCiv
+# Репозиторий группы: https://github.com/rootpolzovatel/iservCiv
